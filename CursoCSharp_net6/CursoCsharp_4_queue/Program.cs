@@ -10,6 +10,8 @@ namespace CursoCsharp_4_queue
             //FIFO --> First In First Out  --> sale el primero que entra
             Queue cola = new Queue();
 
+
+            // Añadir elementos a la cola
             cola.Enqueue(3);
             cola.Enqueue(5);
             cola.Enqueue(1);
